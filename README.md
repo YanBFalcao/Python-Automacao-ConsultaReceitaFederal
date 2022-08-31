@@ -10,6 +10,8 @@ Intenção do exercício e resultados previstos do Projeto:
 
 Espero que tenham gostado e obrigado por chegar até aqui!
 
+Agradecimento especial à Davi Brisola, da qual me ajudou com o código em momentos de necessários novos pontos de visão do código.
+
 Cordialmente,
 
 Yan Falcão.
