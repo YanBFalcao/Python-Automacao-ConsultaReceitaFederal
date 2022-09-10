@@ -1,4 +1,4 @@
-# Python - Automação Consulta Status Receita Federal
+# Python - Automação Consulta Status Receita Federal (Concluído)
 
 Repositório de Automação Python - Consulta Pública Situação Receita Federal
 
